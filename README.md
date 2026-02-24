@@ -1,2 +1,31 @@
-# ML-Linear-Regression-Project-Python-for-DS-Course
-This is my first project predicting with linear regression. There is an analysis of the dataset before applying the linear regression model.  The idea is to find out what the company should spend more money in mobile app or website.  Again, this is nothing too special, but I am showing that I am learning progressively.  
+# Linear Regression Project
+
+Predictive modeling project using linear regression to determine whether a company should invest more in its mobile app or website.
+
+## Overview
+
+First linear regression project from the Udemy "Python for Data Science" course. Includes exploratory data analysis of the dataset followed by model building and evaluation.
+
+## Approach
+
+1. Exploratory data analysis with visualizations
+2. Feature selection and correlation analysis
+3. Linear regression model training
+4. Model evaluation (MAE, MSE, RMSE)
+5. Business recommendation based on coefficients
+
+## Tech Stack
+
+- **Language:** Python (Jupyter Notebook)
+- **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+
+## Getting Started
+
+```bash
+pip install scikit-learn pandas numpy matplotlib seaborn jupyter
+jupyter notebook
+```
+
+## Author
+
+**Jonas** - Data Engineer | St. Louis, MO
